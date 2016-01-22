@@ -8,7 +8,7 @@ import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class Shout extends JavaPlugin
+public class ShoutCraft extends JavaPlugin
 {
   public void onEnable()
   {
